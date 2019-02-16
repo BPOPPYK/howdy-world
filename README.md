@@ -1,2 +1,2 @@
 # howdy-world
-This is my secopnd attempt at a repository
+This is my second attempt at a repository
